@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AchillesTD
-- 👀 I’m interested in UI/UX Development and Editing
+- 👀 I’m interested in Software Development and Editing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me IG-@achilles_td
