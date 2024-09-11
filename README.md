@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AchillesTD
 - 👀 I’m interested in Software Development and Editing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Gstreamer and WebRTC
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me IG-@achilles_td
 
