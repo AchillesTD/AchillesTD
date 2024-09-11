@@ -6,7 +6,7 @@
 
 <p>
   
-Hi 👋, I am **Tanmay** an aspiring software developer with a deep passion for AI/ML and web development. Currently, I’m an R&D intern at [@Integrated Active Monitoring Pvt. Ltd. (IAM)](https://www.linkedin.com/company/integrated-active-monitoring-pvt-ltd-iam/mycompany/) and am always excited to explore new technologies and opportunities in the tech world. ✨
+Hi 👋, I'm **Tanmay** an aspiring software developer with a deep passion for AI/ML and web development. Currently, I’m an R&D intern at [@Integrated Active Monitoring Pvt. Ltd. (IAM)](https://www.linkedin.com/company/integrated-active-monitoring-pvt-ltd-iam/mycompany/) and am always excited to explore new technologies and opportunities in the tech world. ✨
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <details>
