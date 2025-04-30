@@ -52,8 +52,8 @@ Hi 👋, I'm **Tanmay** an aspiring software developer with a deep passion for s
 <p align="right">
   <a href="https://github.com/AchillesTD?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=AchillesTD&icon=5&color=6" alt="visit count" width="130" height="27" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=AchillesTD" alt="Profile Views"/>
+  </a>
 </p>
 
 
